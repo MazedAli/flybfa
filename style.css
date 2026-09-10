@@ -203,3 +203,91 @@ a {
     grid-row: 2;
     margin: 3px 0 0;
 }
+/*End key feature section*/
+/*Start Leadership section*/
+.mm{background-color: #fff;}
+.leadership{
+    background: #fff;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-bottom: 20px;
+ 
+}
+
+.president{
+    background: #F4F4F6;
+    width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+
+
+}
+
+.president h2{
+    padding: 10px 0px 10px 0px;
+}
+.president img{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.president_content{
+    display: flex;
+    gap: 10px;
+}
+
+.pre-text{
+    font-size: 14px;
+    line-height: 1.4;
+
+}
+.pre-text img{
+    width: 80px;
+    height: 50px;
+}
+.pre-text h2{
+    font-size: 16px;
+}
+.pre-text p{
+    font-size: 14px;
+}
+
+.secretary {
+    width: 600px;
+    background: #F4F4F6;
+    border-radius: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sec_content{
+    display: flex;
+    gap: 10px;
+}
+.secretary h2{
+    padding: 10px 0px 10px 0px;
+
+}
+.sec_content img{
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+
+}
+
+.sec_text{}
+.sec_text h2{
+    font-size: 16px;
+    padding: 10px 0px 10px 0px;
+}
+.sec_text p{
+    font-size: 14px;
+    line-height: 1.4;
+}
+.sec_text img{
+    width: 80px;
+    height: 50px;
+}
+/*End Leadership section*/
